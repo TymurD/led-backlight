@@ -1,6 +1,3 @@
-import os
-import sys
-
 check_cookies = {"text1" : "not enough",
                  "text2" : "enough",
                  "text3" : "pretty enough",}
